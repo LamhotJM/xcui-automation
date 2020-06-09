@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Purchases</key>
+	<array>
+		<dict>
+		<key>is_trial_period</key>
+		<false/>
+		<key>original_purchase_date</key>
+		<string>2017-11-08 18:14:26 Etc/GMT</string>
+		<key>original_purchase_date_ms</key>
+		<string>1510164866000</string>
+		<key>original_purchase_date_pst</key>
+		<string>2017-11-08 10:14:26 America/Los_Angeles</string>
+		<key>original_transaction_id</key>
+		<string>1000000350733804</string>
+		<key>product_id</key>
+		<string>com.pixelford.photoapp.filter.blur</string>
+		<key>purchase_date</key>
+		<string>2017-11-08 18:14:26 Etc/GMT</string>
+		<key>purchase_date_ms</key>
+		<string>1510164866000</string>
+		<key>purchase_date_pst</key>
+		<string>2017-11-08 10:14:26 America/Los_Angeles</string>
+		<key>quantity</key>
+		<string>1</string>
+		<key>transaction_id</key>
+		<string>1000000350733804</string>
+	</dict>
+	<dict>
+		<key>is_trial_period</key>
+		<false/>
+		<key>original_purchase_date</key>
+		<string>2017-11-08 18:14:50 Etc/GMT</string>
+		<key>original_purchase_date_ms</key>
+		<string>1510164890000</string>
+		<key>original_purchase_date_pst</key>
+		<string>2017-11-08 10:14:50 America/Los_Angeles</string>
+		<key>original_transaction_id</key>
+		<string>1000000350733925</string>
+		<key>product_id</key>
+		<string>com.pixelford.photoapp.filter.crop</string>
+		<key>purchase_date</key>
+		<string>2017-11-08 18:14:50 Etc/GMT</string>
+		<key>purchase_date_ms</key>
+		<string>1510164890000</string>
+		<key>purchase_date_pst</key>
+		<string>2017-11-08 10:14:50 America/Los_Angeles</string>
+		<key>quantity</key>
+		<string>1</string>
+		<key>transaction_id</key>
+		<string>1000000350733925</string>
+	</dict>
+	</array>
+</dict>
+</plist>
